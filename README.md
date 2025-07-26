@@ -1,4 +1,4 @@
-# 🏏 IPL Analysis
+# 🏏 Sports Basics - IPL Analysis Project
 
 ![Dashboard Preview](image.png)
 
