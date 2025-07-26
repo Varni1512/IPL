@@ -34,7 +34,6 @@ IPL/
 - **Pandas** (Data manipulation)
 - **NumPy** (Numerical computations)
 - **Matplotlib & Seaborn** (Data visualization)
-- **Jupyter Notebook** (Analysis and visualization)
 - **Power BI** (Attractive Dashboard)
 
 ---
