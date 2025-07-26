@@ -1,28 +1,62 @@
-# Sports Basics - IPL Analysis Project
+# 🏏 IPL Analysis
 
-This project is the part of Codebasics Resume Challenge 10
-
-𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄
-
-"Sports Basics" is a sports blog company that entered into the market recently. 
-
-They wanted to get more traffic to their website by releasing a special edition magazine on IPL 2024. 
-
-This magazine aims to provide interesting insights and facts for fans, analysts and teams based on the last 3 years' data.
-
-Using Power BI, I delved into the last 3 years' data to uncover key insights requested for both primary and secondary analysis.
-
-𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝗟𝗶𝗻𝗸 - https://acesse.dev/qoEs0
-
-𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻 𝗟𝗶𝗻𝗸 - https://acesse.one/PCEXp
-
-# Team Analysis
-
-![Screenshot (4631)](https://github.com/Inderpanda/Sports_Basics--IPL_Analysis/assets/138003751/fdee597a-bcbd-4bf2-af3f-e3bb4f7d5557)
-
-# Best Playing 11
-
-![Screenshot (4632)](https://github.com/Inderpanda/Sports_Basics--IPL_Analysis/assets/138003751/74d54407-6a77-4e15-b3d7-3f5fc380e971)
+![Dashboard Preview](image.png)
 
 
+## 📌 Overview
+This project focuses on analyzing **Indian Premier League (IPL)** cricket data to derive insights about teams, players, and match statistics. The analysis includes data cleaning, exploratory data analysis (EDA), and visualization to uncover patterns and trends in IPL history.
 
+---
+
+## 📂 Project Structure
+```
+IPL/
+│
+├── Dataset/
+├── Sports Basics - IPL Analysis.pbix      
+├── meta_data.txt     
+└── README.md            
+```
+
+---
+
+## ✨ Features
+- ✅ Data Cleaning & Preprocessing  
+- ✅ Exploratory Data Analysis (EDA)  
+- ✅ Player and Team Performance Analysis  
+- ✅ Interactive & Static Visualizations  
+- ✅ Insights into Most Valuable Players, Win Ratios, and Trends  
+
+---
+
+## 📊 Technologies Used
+- **Python 3.x**
+- **Pandas** (Data manipulation)
+- **NumPy** (Numerical computations)
+- **Matplotlib & Seaborn** (Data visualization)
+- **Jupyter Notebook** (Analysis and visualization)
+- **Power BI** (Attractive Dashboard)
+
+---
+
+## 📈 Sample Visualizations
+Here are some sample insights you can generate:
+- **Top 10 batsmen based on past 3 years total runs scored.**  
+- **Top 10 bowlers based on past 3 years total wickets taken.**  
+- **Top 5 batsmen based on past 3 years boundary (fours and sixes).**
+- **Top 5 bowlers based on past 3 years dot ball**  
+- **Top 4 teams based on past 3 years winning**
+
+
+
+---
+
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome!  
+Feel free to fork the repository and submit pull requests.
+
+---
+
+## 📝 License
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
